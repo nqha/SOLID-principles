@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SOLID_Principles/obj
+/.vs
+/Open_Close_Principle/bin/Debug/net6.0
+/Open_Close_Principle/obj
+/SOLID_Principles/bin/Debug/net6.0
+/Single_Responsibility_Principle/bin/Debug/net6.0
+/Single_Responsibility_Principle/obj
