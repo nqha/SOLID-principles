@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Liskov_Substitution_Princ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Interface_Segregation_Principle", "Interface_Segregation_Principle\4.Interface_Segregation_Principle.csproj", "{9D4DBA84-3980-4006-9DB7-B8C62011D1D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Inversion_Principle", "Dependency_Inversion_Principle\Dependency_Inversion_Principle.csproj", "{7CDDA725-2799-4023-A9D2-A230E4681201}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Dependency_Inversion_Principle", "Dependency_Inversion_Principle\5.Dependency_Inversion_Principle.csproj", "{7CDDA725-2799-4023-A9D2-A230E4681201}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
